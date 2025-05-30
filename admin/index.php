@@ -1,0 +1,19 @@
+<?php 
+$title='';
+$url_dir='';
+session_start();
+
+if(!empty($_SESSION['id_admin'])){
+	?>
+	<script>
+		location.href='pages/home/home.php';
+	</script>
+	<?php
+}else{
+	?>
+	<script>
+		location.href='pages/login/login.php';
+	</script>
+	<?php
+}
+?>
