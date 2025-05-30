@@ -6,7 +6,7 @@ include('partial/header.php'); ?>
         
         <div class="canvas-home">
             <div class="site-heading text-center text-faded">
-                <img class="logo-full-slide" src="assets/img/logo-full.png" alt="Black Whale">
+                <img class="logo-full-slide" src="assets/img/logo-full.png" alt="TramicARG">
                 <!--
                 <span class="site-heading-lower">Casual</span>
                 -->

@@ -5,10 +5,10 @@
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="Primer Asset Management y Propietary Trading de América Latina. Hacemos crypto fácil." />
-        <meta name="keywords" content="Assets funds, Asset Management, Trading, Black Whale"/>
+        <meta name="description" content="Transferencia de vehiculos, gestión de 08 digital." />
+        <meta name="keywords" content="Tramite 08, Transferencia de vehiculos, Gestión de 08 digital"/>
         <meta name="author" content="http://www.estudiochento.com.ar" />
-        <title>Black Whale - Hacemos crypto fácil</title>
+        <title>TramicARG - Gestión de 08 digital</title>
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.png" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>

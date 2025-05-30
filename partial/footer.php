@@ -97,7 +97,7 @@
                         </ul>
                     </div>
                     <div class="col-md-4 footer-col footer-logo">
-                        <img src="assets/img/logo-full.png" alt="Black Whale" width="146">
+                        <img src="assets/img/logo-footer.png" alt="Black Whale" width="146">
                         <p>
                         <a href="http:www.estudiochento.com.ar" target="_blank">
                             By

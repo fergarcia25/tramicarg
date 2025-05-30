@@ -1,5 +1,5 @@
 {
-  "name": "RoyalUI_admin",
+  "name": "TramicARG",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
@@ -29,8 +29,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "templatewatch",
-  "url": "http://www.templatewatch.com/",
+  "author": "estudiochento",
+  "url": "http://www.estudiochento.com/",
   "copyright": "",
   "license": ""
 }
