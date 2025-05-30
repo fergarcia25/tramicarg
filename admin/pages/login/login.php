@@ -33,7 +33,7 @@ include($url_dir.'/config/functions.php');
           <div class="col-lg-6 d-flex align-items-center justify-content-center">
             <div class="auth-form-transparent text-left p-3">
               <div class="brand-logo">
-                <img src="../../images/logo-sm-multicolor.png" alt="Black Whale">
+                <img src="../../images/logo-header.png" alt="Black Whale">
               </div>
               
               <h4>Bienvenido!</h4>
@@ -43,9 +43,9 @@ include($url_dir.'/config/functions.php');
                 <div class="form-group">
                   <label for="exampleInputEmail">E-mail</label>
                   <div class="input-group">
-                    <div class="input-group-prepend bg-transparent">
-                      <span class="input-group-text bg-transparent border-right-0">
-                        <i class="ti-user text-primary"></i>
+                    <div class="input-group-prepend bg-gray">
+                      <span class="input-group-text bg-gray border-right-0">
+                        <i class="ti-user text-yellow"></i>
                       </span>
                     </div>
                     <input type="email" class="form-control form-control-lg border-left-0" id="exampleInputEmail" placeholder="E-mail" name="email">
@@ -54,9 +54,9 @@ include($url_dir.'/config/functions.php');
                 <div class="form-group">
                   <label for="exampleInputPassword">Contraseña</label>
                   <div class="input-group">
-                    <div class="input-group-prepend bg-transparent">
-                      <span class="input-group-text bg-transparent border-right-0">
-                        <i class="ti-lock text-primary"></i>
+                    <div class="input-group-prepend bg-gray">
+                      <span class="input-group-text bg-gray border-right-0">
+                        <i class="ti-lock text-yellow"></i>
                       </span>
                     </div>
                     <input type="password" class="form-control form-control-lg border-left-0" id="exampleInputPassword" placeholder="Password" name="password">                        
